@@ -1,0 +1,5 @@
+c:\users\iguest\documents\visual studio 2013\Projects\tester\tester\bin\tester.dll.config
+c:\users\iguest\documents\visual studio 2013\Projects\tester\tester\bin\tester.dll
+c:\users\iguest\documents\visual studio 2013\Projects\tester\tester\bin\tester.pdb
+c:\users\iguest\documents\visual studio 2013\Projects\tester\tester\obj\Debug\tester.dll
+c:\users\iguest\documents\visual studio 2013\Projects\tester\tester\obj\Debug\tester.pdb
