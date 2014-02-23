@@ -3,3 +3,8 @@ c:\users\iguest\documents\visual studio 2013\Projects\tester\tester\bin\tester.d
 c:\users\iguest\documents\visual studio 2013\Projects\tester\tester\bin\tester.pdb
 c:\users\iguest\documents\visual studio 2013\Projects\tester\tester\obj\Debug\tester.dll
 c:\users\iguest\documents\visual studio 2013\Projects\tester\tester\obj\Debug\tester.pdb
+C:\Users\iguest\Documents\crawltest\tester\bin\tester.dll.config
+C:\Users\iguest\Documents\crawltest\tester\bin\tester.dll
+C:\Users\iguest\Documents\crawltest\tester\bin\tester.pdb
+C:\Users\iguest\Documents\crawltest\tester\obj\Debug\tester.dll
+C:\Users\iguest\Documents\crawltest\tester\obj\Debug\tester.pdb
